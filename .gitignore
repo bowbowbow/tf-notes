@@ -82,3 +82,7 @@ Session.vim
 *~
 
 .idea/
+
+/data/mnist/
+/logs/
+/model/
