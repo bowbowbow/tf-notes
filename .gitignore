@@ -83,6 +83,6 @@ Session.vim
 
 .idea/
 
-/data/mnist/
-/logs/
-/model/
+data/
+logs/
+model/
