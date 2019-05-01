@@ -86,3 +86,4 @@ Session.vim
 data/
 logs/
 model/
+venv/
